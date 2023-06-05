@@ -1,4 +1,4 @@
-# NgTest2
+# Ex_angular_test_app_1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
 
